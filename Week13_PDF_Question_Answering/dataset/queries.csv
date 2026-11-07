@@ -1,0 +1,16 @@
+﻿question_id,question
+1,What is artificial intelligence?
+2,How is machine learning different from traditional rule-based programming?
+3,What are the three common types of machine learning?
+4,Why should training and test data be separated?
+5,How does a neural network learn?
+6,List common tasks in natural language processing.
+7,What is a large language model and what limitation should users remember?
+8,What does a text embedding represent?
+9,What information can be stored with vectors in ChromaDB?
+10,Explain the main steps in retrieval-augmented generation.
+11,Why is text chunking used in document question answering?
+12,What can happen when chunks are too small or too large?
+13,How should a RAG system be evaluated?
+14,What should the system do if the document does not contain the answer?
+15,Name important principles of responsible AI use.
